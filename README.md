@@ -29,3 +29,9 @@ pyenv versions
 ```
 bash setup.sh
 ```
+
+3. Install Jupyter
+
+```
+pip install jupyter
+```
